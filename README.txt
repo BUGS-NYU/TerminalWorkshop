@@ -1,4 +1,4 @@
-# TerminalWorkshop 
+# TerminalWorkshop http://bit.ly/BugsTerminal
 
 Hey, could you help me with some things?
 
