@@ -8,3 +8,7 @@ $ nano programmer_jokes.txt
 	Exit nano with Control+X, y, then Enter
 
 2: 
+
+
+More learning: https://swcarpentry.github.io/shell-novice/
+Decipher confusing command lines: https://explainshell.com/
