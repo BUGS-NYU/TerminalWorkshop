@@ -16,8 +16,12 @@ ____________________
 	$ pwd
 	$ ls
 	$ ls -F
-	$ ls -F -a OR $ ls -Fa
-	$ ls -l -h OR $ ls -lh
+	$ ls -F -a 
+		OR 
+		$ ls -Fa
+	$ ls -l -h 
+		OR 
+		$ ls -lh
 	$ man ls
 	```
 
@@ -47,7 +51,8 @@ Can you add one more joke to the text file 'jokes.txt' please?
 Write your NYU email inside and delete the similar file that already exists.
 
 	```
-	$ touch report_name.txt OR $ nano report_name.txt
+	$ touch report_name.txt 
+	$ nano report_name.txt
 	$ rm report_nadiradewji.txt
 	```
 ____________________
