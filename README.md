@@ -47,12 +47,10 @@ Can you add one more joke to the text file 'jokes.txt' please?
 		Exit nano with Control+X (control is also known as Ctrl or ^, so ^X), y, then Enter
 	```
 
-- [ ] We also need a new text file named “report_” and your name, like “report_nadiradewji.txt”.
-Write your NYU email inside and delete the similar file that already exists.
+- [ ] We also need a new text file named “report_” and your name, like “report_nadiradewji.txt”. Then delete the similar file that already exists.
 
 	```
 	$ touch report_name.txt 
-	$ nano report_name.txt
 	$ rm report_nadiradewji.txt
 	```
 ____________________
@@ -135,7 +133,7 @@ ____________________
 
 	```
 	$ git add report_name.txt
-	$ git commit -m “I contributed!”
+	$ git commit -m "I contributed!"
 	$ git push
 	```
 ____________________
