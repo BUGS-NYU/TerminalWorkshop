@@ -1,5 +1,5 @@
 ### TerminalWorkshop 
-### http://bit.ly/BugsTerminal
+### History: http://bit.ly/BugsTerminal
 ### $ cd ~/Desktop
 ### $ git clone https://github.com/BUGS-NYU/TerminalWorkshop
 
