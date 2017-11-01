@@ -9,7 +9,7 @@ ____________________
 ____________________
 ### 0. whoami, pwd, ls, cd, man
 
-[ ] First find out who and where you are…
+First find out who and where you are…
 
 $ whoami
 $ pwd
