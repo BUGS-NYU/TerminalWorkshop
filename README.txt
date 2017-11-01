@@ -46,7 +46,7 @@ ____________________
 ____________________
 ### 2. mkdir, mv, rm, cp
 
-Create a new folder called ‘publish’, pick three images from the ‘sort’ folder, and move them into the ‘publish’ folder so we can publish our latest funny pictures on our website. Also make two new folders, ‘memes’ and ‘comics’, and sort the rest of the images appropriately.
+Create a new folder called ‘publish’, pick three images from the ‘sort’ folder, and move them into the ‘publish’ folder so we can publish our latest funny pictures on our website.
 
 $ mkdir publish
 $ mv sort/comic_triumphant.jpg publish
