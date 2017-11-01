@@ -31,6 +31,17 @@ ____________________
 	$ cd directory
 	$ cd ..
 	```
+- [ ] Nadira told me about these shortcuts, you should try them out.
+
+	```
+	You can get your last command by click the up keyboard button
+	You can auto-complete a filename or directory name if it's unique by using tab.
+	$ history
+	$ !your_number
+	$ clear
+	With your volume on do this command below
+	$ say "hello"
+	```
 ____________________
 ____________________
 ### 1. cat, head, tail, nano, touch, rm
