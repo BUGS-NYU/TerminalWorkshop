@@ -91,6 +91,7 @@ Nadira asked me to write some computer thingy? A program or something, that lets
 
 $ nano third_joke.sh
 	head -n 9 jokes.txt | tail -n 2
+$ bash third_joke.sh
 
 Nadira asked me to run her Intro to Programming homework written in python from the file ‘poem.py’ and another homework written in java from the file ‘poem.java’.
 
