@@ -60,7 +60,7 @@ ____________________
 ____________________
 ### 3. wild card regular expressions, >, wc, diff, |
 
-Can you make two new folders, ‘memes’ and ‘comics’, and sort the rest of the images in the ‘sort’ directory appropriately.
+Can you make two new folders, ‘memes’ and ‘comics’, and sort the rest of the images in the ‘sort’ directory appropriately?
 
 $ mkdir memes
 $ mv sort/meme*.jpg memes
