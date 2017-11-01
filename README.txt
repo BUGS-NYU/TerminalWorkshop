@@ -97,9 +97,16 @@ Nadira asked me to run her Intro to Programming homework written in python from 
 $ python poem.py
 $ javac poem.java
 $ java poem
-
 ____________________
 ____________________
+### 5. git
 
+We want to know who helped us complete these tasks! Is there a way you can let us know with your name and email?
+
+$ git add report_name.txt
+$ git commit -m “I contributed!”
+$ git push
+____________________
+____________________
 More learning: https://swcarpentry.github.io/shell-novice/
 Decipher confusing command lines: https://explainshell.com/
