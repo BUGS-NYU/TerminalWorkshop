@@ -27,7 +27,7 @@ ____________________
 ____________________
 ### 1. cat, head, tail, nano, touch, rm
 
-Read my jokes in the 'joke.txt' file! I think they’re funny.
+Read my jokes in the 'jokes.txt' file! I think they’re funny.
 Can you add one more joke to the text file 'jokes.txt' please?
 
 $ cat jokes.txt
