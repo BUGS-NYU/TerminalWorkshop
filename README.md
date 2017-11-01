@@ -98,7 +98,7 @@ ____________________
 	$ wc -w *.txt | sort -n | head -n 1
 	```
 
-[ ] Ana ran a couple experiments two months apart, the data she got is shown in the text files ’09-10-2017.txt’ and ’10-10-2017.txt’. She wants to know if she got the same data each time otherwise there may be a problem she’ll have to check.
+- [ ] Ana ran a couple experiments two months apart, the data she got is shown in the text files ’09-10-2017.txt’ and ’10-10-2017.txt’. She wants to know if she got the same data each time otherwise there may be a problem she’ll have to check.
 
 	```
 	$ diff 09-10-2017.txt 10-10-2017.txt
