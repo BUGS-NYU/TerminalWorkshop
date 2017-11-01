@@ -1,6 +1,6 @@
 ### TerminalWorkshop 
 ### http://bit.ly/BugsTerminal
-### cd ~/Desktop
+### $ cd ~/Desktop
 ### $ git clone https://github.com/BUGS-NYU/TerminalWorkshop
 
 Hey, could you help me with some things? Nadira gave me these simple computer tasks to do but I’m terrible with computers. I had Joanna write this up for me because I don’t even know how to do that. I could really use your help with these tasks. Thanks a lot! 
