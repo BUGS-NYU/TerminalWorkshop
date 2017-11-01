@@ -27,15 +27,15 @@ ____________________
 ____________________
 ### 1. cat, head, tail, nano, touch, rm
 
-Read my jokes in the joke.txt file! I think they’re funny.
-Can you add one more joke to the text file jokes.txt please?
+Read my jokes in the 'joke.txt' file! I think they’re funny.
+Can you add one more joke to the text file 'jokes.txt' please?
 
 $ cat jokes.txt
 $ head jokes.txt
 $ head -15 jokes.txt
 $ tail -5 jokes.txt
 $ nano jokes.txt
-Exit nano with Control+X (control is also known as Ctrl or ^, so ^X), y, then Enter
+	Exit nano with Control+X (control is also known as Ctrl or ^, so ^X), y, then Enter
 
 We also need a new text file named “report_” and your name, like “report_nadiradewji.txt”.
 Write your NYU email inside and delete the similar file that already exists.
