@@ -11,13 +11,15 @@ ____________________
 
 - [ ] First find out who and where you are…
 
-$ whoami
-$ pwd
-$ ls
-$ ls -F
-$ ls -F -a OR $ ls -Fa
-$ ls -l -h OR $ ls -lh
-$ man ls
+	```
+	$ whoami
+	$ pwd
+	$ ls
+	$ ls -F
+	$ ls -F -a OR $ ls -Fa
+	$ ls -l -h OR $ ls -lh
+	$ man ls
+	```
 
 - [ ] Navigate to the TerminalWorkshop folder.
 
