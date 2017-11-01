@@ -3,8 +3,8 @@
 ### cd ~/Desktop
 ### $ git clone https://github.com/BUGS-NYU/TerminalWorkshop
 
-Hey, could you help me with some things? Nadira gave me these simple computer tasks to do but I’m terrible with computers. I had Ana write up this up for me because I don’t even know how to do that. I could really use your help with these tasks. Thanks a lot! 
-- David (written by Ana)
+Hey, could you help me with some things? Nadira gave me these simple computer tasks to do but I’m terrible with computers. I had Joanna write up this up for me because I don’t even know how to do that. I could really use your help with these tasks. Thanks a lot! 
+- David (written by Joanna)
 ____________________
 ____________________
 ### 0. whoami, pwd, ls, cd, man
