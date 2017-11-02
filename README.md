@@ -1,12 +1,14 @@
-# TerminalWorkshop 
-### History: http://bit.ly/BugsTerminal
-##### $ cd ~/Desktop
-##### $ git clone https://github.com/BUGS-NYU/TerminalWorkshop
+# Welcome to our Terminal Workshop 
+### Learn a little history here: https://bit.ly/BugsTerminal
+### Begin this by opening your Terminal application for Mac and Linux users or download Git Bash for windows users
+We use the dollar sign $ to indicate this is the start of a command line. 
+The term "directory" is synonymous with "folder".
 
-____________________
-____________________
-We use the dollar sign $ to indicate this is the start of a command line. The term "directory" is synonymous with "folder".
-
+- [ ] Type each of the commands below into your Terminal application and click Enter each time
+	```
+	$ cd ~/Desktop
+	$ git clone https://github.com/BUGS-NYU/TerminalWorkshop
+	```
 ____________________
 ____________________
 
